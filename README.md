@@ -1,5 +1,5 @@
 # Neon Survivor
-My first low-level game ever, it took me such a long  time to do it. Very simple game, but no Game engine used I literary made everything from scratch, it was such a hard work but worth it.
+My first low-level game ever, it took me such a long  time to do it. Very simple game, but no Game engine used I made everything from scratch, it was such a hard work but worth it.
 
 # Technologies
 - C++
