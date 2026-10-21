@@ -20,7 +20,9 @@ Esc: Quit
 Requirements: CMake, a C++ compiler, SDL3, and OpenGL development libraries.
 
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+
 cmake --build build -j"$(nproc)"
+
 ./build/neon_survivor
 
 # Packaging
