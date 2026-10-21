@@ -1,0 +1,6 @@
+/usr/bin/neon_survivor
+/usr/lib/libSDL3.so.0.5.0
+/usr/lib/libSDL3.so.0
+/usr/lib/libSDL3.so
+/usr/share/icons/hicolor/256x256/apps/neon-survivor.png
+/usr/share/applications/neon-survivor.desktop

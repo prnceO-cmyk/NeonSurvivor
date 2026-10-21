@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Type=Application
+Name=Neon Survivor
+Comment=A neon arcade survival game
+Exec=neon_survivor
+Icon=neon-survivor
+Terminal=false
+Categories=Game;ArcadeGame;
+

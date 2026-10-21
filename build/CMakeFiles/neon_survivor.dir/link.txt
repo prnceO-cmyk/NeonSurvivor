@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/neon_survivor.dir/src/main.cpp.o CMakeFiles/neon_survivor.dir/src/Game.cpp.o -o neon_survivor  -Wl,-rpath,"/home/prnc_227/My Coding Files/NeonSurvivor/build/vendored/SDL:" vendored/SDL/libSDL3.so.0.5.0 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
